@@ -1,1 +1,3 @@
-# contact-manager-pro-206379
+# Project Repository
+
+This is the initial README file for the project.
